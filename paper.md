@@ -1,8 +1,9 @@
 # Title 
-Aging of biomass burning aerosols over West Africa 
+simulations of biomass burning aerosols over West Africa 
 
 # Author
 ADFA buuba
+Jone Smith
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
