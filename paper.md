@@ -1,8 +1,9 @@
 # Title 
-Aircraft measurements of biomass burning aerosols over West Africa 
+Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
 ADFA buuba
+Jone Smith
 
 #Introduction
 We present aircraft measurements of BBOA over West Africa.
@@ -14,3 +15,7 @@ but continental- scale measurements have not previously been made
 
 A large uncertainty in modelling BBOA is the extent to which 
 measurements in th literature can be applied at regional scale.
+
+#Simulations 
+We simulation the evolution of particle sizes as the are transported 
+away from the source region
