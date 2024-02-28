@@ -2,9 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-adfjodb n
-ADFA buuba
-Jone Smith
+Jone Smith, University of Elsewhere
+ADFA buuba, University of Manchester
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
