@@ -2,7 +2,7 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-Jone Smith, University of Elsewhere
+Jone Smith, University of elsewhere
 ADFA buuba, University of Manchester
 
 # Introduction
