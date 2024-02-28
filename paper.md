@@ -23,5 +23,3 @@ away from the source region
 #Methodology 
 We compared our measurements of particle aging with a model simulation.
 The model is detailed in Smith etal 2002.
-
-Have some description of other instrument
