@@ -19,3 +19,7 @@ measurements in th literature can be applied at regional scale.
 #Simulations 
 We simulation the evolution of particle sizes as the are transported 
 away from the source region
+
+#Methodology 
+We compared our measurements of particle aging with a model simulation.
+The model is detailed in Smith etal 2002.
