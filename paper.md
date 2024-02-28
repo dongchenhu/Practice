@@ -27,3 +27,6 @@ The model is detailed in Smith etal 2002.
 # Results
 The simulations indicate that coagulation is the dominant growth
 mechanism for the baba
+
+# Figures
+Figures go in their own sections in a draft paper.
