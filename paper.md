@@ -5,7 +5,7 @@ Aircraft measurements and simulations of biomass burning aerosols over West Afri
 ADFA buuba
 Jone Smith
 
-#Introduction
+# Introduction
 We present aircraft measurements of BBOA over West Africa.
 
 Particle size was measured using a PCASP 
@@ -16,10 +16,10 @@ but continental- scale measurements have not previously been made
 A large uncertainty in modelling BBOA is the extent to which 
 measurements in th literature can be applied at regional scale.
 
-#Simulations 
+# Simulations 
 We simulation the evolution of particle sizes as the are transported 
 away from the source region
 
-#Methodology 
+# Methodology 
 We compared our measurements of particle aging with a model simulation.
 The model is detailed in Smith etal 2002.
