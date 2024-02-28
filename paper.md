@@ -8,3 +8,6 @@ ADFA buuba
 We present aircraft measurements of BBOA over West Africa.
 
 Particle size was measured using a PCASP 
+
+Jones et al (1998) conducted serval studies in this region,
+but continental- scale measurements have not previously been made
